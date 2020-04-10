@@ -1,5 +1,8 @@
 # Bin2Dec
 
+Check the [demo here](https://bin2dec-geoffctn.netlify.com/)
+App made for the challenge [App Ideas](https://github.com/florinpop17/app-ideas)
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
