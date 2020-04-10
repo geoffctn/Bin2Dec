@@ -50,7 +50,12 @@ a {
   color: #fff;
 }
 
+.input {
+  width: 100%;
+}
+
 .input input {
+  max-width: 80%;
   padding: 0.75rem 1rem;
   font-family: 'Roboto Mono', 'Consolas', monospace;
   font-size: 2rem;
@@ -76,4 +81,15 @@ footer {
   bottom: 1rem;
   font-size: .85rem;
   color: #333;
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 620px) {
+  .App .attenuated {
+    font-size: 1.75rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
 }
